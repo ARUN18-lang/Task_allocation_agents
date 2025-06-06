@@ -1,0 +1,381 @@
+{
+  "allocations": [
+    {
+      "role": "Software Engineer",
+      "count": 14,
+      "members": [
+        {
+          "id": 10,
+          "name": "Quinn",
+          "experience": 11,
+          "roles": [
+            "Software Engineer",
+            "Backend Developer",
+            "Machine Learning Engineer"
+          ],
+          "preference": "Software Engineer",
+          "projects": 2,
+          "allocation_score": 9.8
+        },
+        {
+          "id": 8,
+          "name": "Steve",
+          "experience": 7,
+          "roles": [
+            "Software Engineer",
+            "Security Analyst"
+          ],
+          "preference": "Software Engineer",
+          "projects": 3,
+          "allocation_score": 7.0
+        },
+        {
+          "id": 19,
+          "name": "Vincent",
+          "experience": 6,
+          "roles": [
+            "Software Engineer",
+            "Frontend Developer",
+            "Backend Developer"
+          ],
+          "preference": "Software Engineer",
+          "projects": 2,
+          "allocation_score": 6.8
+        },
+        {
+          "id": 35,
+          "name": "Paul",
+          "experience": 1,
+          "roles": [
+            "DevOps Engineer",
+            "Software Engineer"
+          ],
+          "preference": "Software Engineer",
+          "projects": 2,
+          "allocation_score": 3.8
+        },
+        {
+          "id": 15,
+          "name": "Uma",
+          "experience": 15,
+          "roles": [
+            "Backend Developer",
+            "Software Engineer"
+          ],
+          "preference": "Backend Developer",
+          "projects": 2,
+          "allocation_score": 12.2
+        },
+        {
+          "id": 33,
+          "name": "Kara",
+          "experience": 15,
+          "roles": [
+            "Machine Learning Engineer",
+            "Software Engineer"
+          ],
+          "preference": "Machine Learning Engineer",
+          "projects": 2,
+          "allocation_score": 12.2
+        },
+        {
+          "id": 37,
+          "name": "Tina",
+          "experience": 14,
+          "roles": [
+            "Database Administrator",
+            "Software Engineer",
+            "Backend Developer",
+            "Cloud Engineer"
+          ],
+          "preference": "Database Administrator",
+          "projects": 3,
+          "allocation_score": 11.2
+        },
+        {
+          "id": 11,
+          "name": "Queen",
+          "experience": 13,
+          "roles": [
+            "Data Scientist",
+            "Software Engineer",
+            "Frontend Developer"
+          ],
+          "preference": "Data Scientist",
+          "projects": 0,
+          "allocation_score": 11.8
+        },
+        {
+          "id": 2,
+          "name": "Charlie",
+          "experience": 9,
+          "roles": [
+            "Database Administrator",
+            "Software Engineer"
+          ],
+          "preference": "Database Administrator",
+          "projects": 2,
+          "allocation_score": 8.6
+        },
+        {
+          "id": 27,
+          "name": "Lara",
+          "experience": 7,
+          "roles": [
+            "Database Administrator",
+            "Frontend Developer",
+            "Software Engineer",
+            "Machine Learning Engineer"
+          ],
+          "preference": "Database Administrator",
+          "projects": 2,
+          "allocation_score": 7.4
+        },
+        {
+          "id": 9,
+          "name": "Rose",
+          "experience": 5,
+          "roles": [
+            "Database Administrator",
+            "AI Engineer",
+            "Backend Developer",
+            "Software Engineer"
+          ],
+          "preference": "Database Administrator",
+          "projects": 1,
+          "allocation_score": 6.6
+        },
+        {
+          "id": 13,
+          "name": "Holly",
+          "experience": 5,
+          "roles": [
+            "Machine Learning Engineer",
+            "Software Engineer",
+            "DevOps Engineer"
+          ],
+          "preference": "Machine Learning Engineer",
+          "projects": 3,
+          "allocation_score": 5.8
+        },
+        {
+          "id": 49,
+          "name": "Diana",
+          "experience": 4,
+          "roles": [
+            "Software Engineer",
+            "DevOps Engineer"
+          ],
+          "preference": "DevOps Engineer",
+          "projects": 0,
+          "allocation_score": 6.4
+        },
+        {
+          "id": 4,
+          "name": "Leo",
+          "experience": 1,
+          "roles": [
+            "Data Scientist",
+            "Machine Learning Engineer",
+            "Software Engineer"
+          ],
+          "preference": "Data Scientist",
+          "projects": 3,
+          "allocation_score": 3.4
+        }
+      ]
+    },
+    {
+      "role": "Frontend Developer",
+      "count": 14,
+      "members": [
+        {
+          "id": 28,
+          "name": "Zane",
+          "experience": 15,
+          "roles": [
+            "Frontend Developer",
+            "DevOps Engineer",
+            "Database Administrator"
+          ],
+          "preference": "Frontend Developer",
+          "projects": 1,
+          "allocation_score": 12.6
+        },
+        {
+          "id": 1,
+          "name": "Bob",
+          "experience": 12,
+          "roles": [
+            "Backend Developer",
+            "Data Scientist",
+            "Frontend Developer"
+          ],
+          "preference": "Frontend Developer",
+          "projects": 2,
+          "allocation_score": 10.4
+        },
+        {
+          "id": 21,
+          "name": "David",
+          "experience": 9,
+          "roles": [
+            "Frontend Developer",
+            "AI Engineer",
+            "Software Engineer",
+            "Data Scientist"
+          ],
+          "preference": "Frontend Developer",
+          "projects": 3,
+          "allocation_score": 8.2
+        },
+        {
+          "id": 48,
+          "name": "Olivia",
+          "experience": 8,
+          "roles": [
+            "Frontend Developer",
+            "AI Engineer"
+          ],
+          "preference": "Frontend Developer",
+          "projects": 1,
+          "allocation_score": 8.4
+        },
+        {
+          "id": 17,
+          "name": "Mike",
+          "experience": 5,
+          "roles": [
+            "Frontend Developer",
+            "AI Engineer",
+            "Machine Learning Engineer",
+            "Security Analyst"
+          ],
+          "preference": "Frontend Developer",
+          "projects": 2,
+          "allocation_score": 6.2
+        },
+        {
+          "id": 40,
+          "name": "Kevin",
+          "experience": 15,
+          "roles": [
+            "Cloud Engineer",
+            "Data Scientist",
+            "Frontend Developer"
+          ],
+          "preference": "Cloud Engineer",
+          "projects": 0,
+          "allocation_score": 13.0
+        },
+        {
+          "id": 6,
+          "name": "Oscar",
+          "experience": 15,
+          "roles": [
+            "Cloud Engineer",
+            "DevOps Engineer",
+            "Frontend Developer",
+            "Data Scientist"
+          ],
+          "preference": "DevOps Engineer",
+          "projects": 1,
+          "allocation_score": 12.6
+        },
+        {
+          "id": 16,
+          "name": "Ian",
+          "experience": 14,
+          "roles": [
+            "Database Administrator",
+            "Frontend Developer",
+            "Backend Developer",
+            "Security Analyst"
+          ],
+          "preference": "Database Administrator",
+          "projects": 3,
+          "allocation_score": 11.2
+        },
+        {
+          "id": 18,
+          "name": "Ursula",
+          "experience": 12,
+          "roles": [
+            "DevOps Engineer",
+            "Backend Developer",
+            "Frontend Developer"
+          ],
+          "preference": "DevOps Engineer",
+          "projects": 0,
+          "allocation_score": 11.2
+        },
+        {
+          "id": 47,
+          "name": "Jack",
+          "experience": 10,
+          "roles": [
+            "Cloud Engineer",
+            "Database Administrator",
+            "Frontend Developer"
+          ],
+          "preference": "Cloud Engineer",
+          "projects": 0,
+          "allocation_score": 10.0
+        },
+        {
+          "id": 3,
+          "name": "George",
+          "experience": 8,
+          "roles": [
+            "AI Engineer",
+            "Frontend Developer",
+            "Cloud Engineer"
+          ],
+          "preference": "Cloud Engineer",
+          "projects": 3,
+          "allocation_score": 7.6
+        },
+        {
+          "id": 44,
+          "name": "Aaron",
+          "experience": 7,
+          "roles": [
+            "Cloud Engineer",
+            "Backend Developer",
+            "Frontend Developer"
+          ],
+          "preference": "Cloud Engineer",
+          "projects": 1,
+          "allocation_score": 7.8
+        },
+        {
+          "id": 34,
+          "name": "Frank",
+          "experience": 6,
+          "roles": [
+            "Security Analyst",
+            "Database Administrator",
+            "Frontend Developer"
+          ],
+          "preference": "Security Analyst",
+          "projects": 2,
+          "allocation_score": 6.8
+        },
+        {
+          "id": 24,
+          "name": "Carl",
+          "experience": 2,
+          "roles": [
+            "Data Scientist",
+            "Frontend Developer",
+            "Database Administrator"
+          ],
+          "preference": "Data Scientist",
+          "projects": 3,
+          "allocation_score": 4.0
+        }
+      ]
+    }
+  ],
+  "generated_at": "2025-04-04T03:07:51.303593"
+}

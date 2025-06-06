@@ -1,0 +1,80 @@
+{
+  "unallocated_members": [
+    {
+      "id": 28,
+      "name": "Zane",
+      "experience": 15,
+      "roles": [
+        "Frontend Developer",
+        "DevOps Engineer",
+        "Database Administrator"
+      ],
+      "preference": "Frontend Developer",
+      "projects": 1,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 2,
+      "name": "Charlie",
+      "experience": 9,
+      "roles": [
+        "Database Administrator",
+        "Software Engineer"
+      ],
+      "preference": "Database Administrator",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 8,
+      "name": "Steve",
+      "experience": 7,
+      "roles": [
+        "Software Engineer",
+        "Security Analyst"
+      ],
+      "preference": "Software Engineer",
+      "projects": 3,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 34,
+      "name": "Frank",
+      "experience": 6,
+      "roles": [
+        "Security Analyst",
+        "Database Administrator",
+        "Frontend Developer"
+      ],
+      "preference": "Security Analyst",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 49,
+      "name": "Diana",
+      "experience": 4,
+      "roles": [
+        "Software Engineer",
+        "DevOps Engineer"
+      ],
+      "preference": "DevOps Engineer",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 35,
+      "name": "Paul",
+      "experience": 1,
+      "roles": [
+        "DevOps Engineer",
+        "Software Engineer"
+      ],
+      "preference": "Software Engineer",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    }
+  ],
+  "count": 6,
+  "generated_at": "2025-04-04T21:48:35.099656"
+}

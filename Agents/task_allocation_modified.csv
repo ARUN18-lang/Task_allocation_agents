@@ -1,0 +1,51 @@
+Member ID,Name,Experience (Years),Roles,Preferences,Projects
+1,Bob,12,"Backend Developer, Data Scientist, Frontend Developer",Frontend Developer,2
+2,Charlie,9,"Database Administrator,  Software Engineer",Database Administrator,2
+3,George,8,"AI Engineer, Frontend Developer, Cloud Engineer",Cloud Engineer,3
+4,Leo,1,"Data Scientist, Machine Learning Engineer, Software Engineer",Data Scientist,3
+5,Wendy,11,"Database Administrator, Backend Developer, Data Scientist",Database Administrator,2
+6,Oscar,15,"Cloud Engineer, DevOps Engineer, Frontend Developer, Data Scientist",DevOps Engineer,1
+7,Ivy,10,"Data Scientist, Machine Learning Engineer, Backend Developer, DevOps Engineer",Data Scientist,2
+8,Steve,7,"Software Engineer, Security Analyst",Software Engineer,3
+9,Rose,5,"Database Administrator, AI Engineer, Backend Developer, Software Engineer",Database Administrator,1
+10,Quinn,11,"Software Engineer, Backend Developer, Machine Learning Engineer",Software Engineer,2
+11,Queen,13,"Data Scientist, Software Engineer, Frontend Developer",Data Scientist,0
+12,Ryan,1,"Cloud Engineer, Machine Learning Engineer, Data Scientist",Cloud Engineer,2
+13,Holly,5,"Machine Learning Engineer, Software Engineer, DevOps Engineer",Machine Learning Engineer,3
+14,Zelda,3,"Machine Learning Engineer, Database Administrator",Machine Learning Engineer,1
+15,Uma,15,"Backend Developer, Software Engineer",Backend Developer,2
+16,Ian,14,"Database Administrator, Frontend Developer, Backend Developer, Security Analyst",Database Administrator,3
+17,Mike,5,"Frontend Developer, AI Engineer, Machine Learning Engineer, Security Analyst",Frontend Developer,2
+18,Ursula,12,"DevOps Engineer, Backend Developer, Frontend Developer",DevOps Engineer,0
+19,Vincent,6,"Software Engineer, Frontend Developer, Backend Developer",Software Engineer,2
+20,Sophia,6,"Security Analyst, Database Administrator, Machine Learning Engineer",Security Analyst,0
+21,David,9,"Frontend Developer, AI Engineer, Software Engineer, Data Scientist",Frontend Developer,3
+22,Fiona,11,"Machine Learning Engineer, Backend Developer, Cloud Engineer",Machine Learning Engineer,2
+23,Alice,9,"Security Analyst, Backend Developer, Data Scientist, AI Engineer",Security Analyst,0
+24,Carl,2,"Data Scientist, Frontend Developer, Database Administrator",Data Scientist,3
+25,William,13,"Database Administrator, Data Scientist",Database Administrator,3
+26,Eve,7,"Machine Learning Engineer, Data Scientist",Machine Learning Engineer,0
+27,Lara,7,"Database Administrator, Frontend Developer, Software Engineer, Machine Learning Engineer",Database Administrator,2
+28,Zane,15,"Frontend Developer, DevOps Engineer, Database Administrator",Frontend Developer,1
+29,Hank,15,"Machine Learning Engineer, Cloud Engineer",Machine Learning Engineer,2
+30,Peter,5,"Cloud Engineer , Data Scientist",Cloud Engineer,0
+31,Victor,3,"AI Engineer, Cloud Engineer",Cloud Engineer,3
+32,Edward,5,"Database Administrator, Backend Developer, DevOps Engineer, Data Scientist",Database Administrator,1
+33,Kara,15,"Machine Learning Engineer, Software Engineer",Machine Learning Engineer,2
+34,Frank,6,"Security Analyst, Database Administrator, Frontend Developer",Security Analyst,2
+35,Paul,1,"DevOps Engineer, Software Engineer",Software Engineer,2
+36,Tom,12,"Backend Developer, AI Engineer",Backend Developer,3
+37,Tina,14,"Database Administrator, Software Engineer, Backend Developer, Cloud Engineer",Database Administrator,3
+38,Grace,5,"Machine Learning Engineer, Backend Developer, Database Administrator",Machine Learning Engineer,0
+39,Julia,10,"Data Scientist, Database Administrator, AI Engineer, Cloud Engineer",Data Scientist,0
+40,Kevin,15,"Cloud Engineer , Data Scientist, Frontend Developer",Cloud Engineer,0
+41,Nina,4,"Database Administrator, Data Scientist, DevOps Engineer, Backend Developer",Database Administrator,2
+42,Nancy,1,"Database Administrator, Data Scientist",Database Administrator,0
+43,Xander,5,"Cloud Engineer, AI Engineer",AI Engineer,1
+44,Aaron,7,"Cloud Engineer, Backend Developer, Frontend Developer",Cloud Engineer,1
+45,Yasmine,12,"Security Analyst , Database Administrator, AI Engineer, Machine Learning Engineer",Security Analyst,1
+46,Mona,3,"Database Administrator, Machine Learning Engineer, DevOps Engineer",Database Administrator,0
+47,Jack,10,"Cloud Engineer, Database Administrator, Frontend Developer",Cloud Engineer,0
+48,Olivia,8,"Frontend Developer, AI Engineer",Frontend Developer,1
+49,Diana,4,"Software Engineer, DevOps Engineer",DevOps Engineer,0
+50,Bella,9,"DevOps Engineer, Data Scientist, Database Administrator",DevOps Engineer,3

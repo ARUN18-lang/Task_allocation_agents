@@ -1,0 +1,16 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.welcome-container {
+    padding-top: 100px;
+}
+.btn {
+    transition: all 0.3s ease;
+}
+.btn:hover {
+    transform: scale(1.05);
+}
+.card {
+    border: none;
+    border-radius: 12px;
+}

@@ -1,0 +1,56 @@
+{
+  "unallocated_members": [
+    {
+      "id": 47,
+      "name": "Jack",
+      "experience": 10,
+      "roles": [
+        "Cloud Engineer",
+        "Database Administrator",
+        "Frontend Developer"
+      ],
+      "preference": "Cloud Engineer",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 2,
+      "name": "Charlie",
+      "experience": 9,
+      "roles": [
+        "Database Administrator",
+        "Software Engineer"
+      ],
+      "preference": "Database Administrator",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 8,
+      "name": "Steve",
+      "experience": 7,
+      "roles": [
+        "Software Engineer",
+        "Security Analyst"
+      ],
+      "preference": "Software Engineer",
+      "projects": 3,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 34,
+      "name": "Frank",
+      "experience": 6,
+      "roles": [
+        "Security Analyst",
+        "Database Administrator",
+        "Frontend Developer"
+      ],
+      "preference": "Security Analyst",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    }
+  ],
+  "count": 4,
+  "generated_at": "2025-04-04T18:19:44.626518"
+}

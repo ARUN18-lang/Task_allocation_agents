@@ -1,0 +1,289 @@
+{
+  "unallocated_members": [
+    {
+      "id": 29,
+      "name": "Hank",
+      "experience": 15,
+      "roles": [
+        "Machine Learning Engineer",
+        "Cloud Engineer"
+      ],
+      "preference": "Machine Learning Engineer",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 25,
+      "name": "William",
+      "experience": 13,
+      "roles": [
+        "Database Administrator",
+        "Data Scientist"
+      ],
+      "preference": "Database Administrator",
+      "projects": 3,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 36,
+      "name": "Tom",
+      "experience": 12,
+      "roles": [
+        "Backend Developer",
+        "AI Engineer"
+      ],
+      "preference": "Backend Developer",
+      "projects": 3,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 45,
+      "name": "Yasmine",
+      "experience": 12,
+      "roles": [
+        "Security Analyst",
+        "Database Administrator",
+        "AI Engineer",
+        "Machine Learning Engineer"
+      ],
+      "preference": "Security Analyst",
+      "projects": 1,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 5,
+      "name": "Wendy",
+      "experience": 11,
+      "roles": [
+        "Database Administrator",
+        "Backend Developer",
+        "Data Scientist"
+      ],
+      "preference": "Database Administrator",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 22,
+      "name": "Fiona",
+      "experience": 11,
+      "roles": [
+        "Machine Learning Engineer",
+        "Backend Developer",
+        "Cloud Engineer"
+      ],
+      "preference": "Machine Learning Engineer",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 7,
+      "name": "Ivy",
+      "experience": 10,
+      "roles": [
+        "Data Scientist",
+        "Machine Learning Engineer",
+        "Backend Developer",
+        "DevOps Engineer"
+      ],
+      "preference": "Data Scientist",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 39,
+      "name": "Julia",
+      "experience": 10,
+      "roles": [
+        "Data Scientist",
+        "Database Administrator",
+        "AI Engineer",
+        "Cloud Engineer"
+      ],
+      "preference": "Data Scientist",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 50,
+      "name": "Bella",
+      "experience": 9,
+      "roles": [
+        "DevOps Engineer",
+        "Data Scientist",
+        "Database Administrator"
+      ],
+      "preference": "DevOps Engineer",
+      "projects": 3,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 23,
+      "name": "Alice",
+      "experience": 9,
+      "roles": [
+        "Security Analyst",
+        "Backend Developer",
+        "Data Scientist",
+        "AI Engineer"
+      ],
+      "preference": "Security Analyst",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 26,
+      "name": "Eve",
+      "experience": 7,
+      "roles": [
+        "Machine Learning Engineer",
+        "Data Scientist"
+      ],
+      "preference": "Machine Learning Engineer",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 20,
+      "name": "Sophia",
+      "experience": 6,
+      "roles": [
+        "Security Analyst",
+        "Database Administrator",
+        "Machine Learning Engineer"
+      ],
+      "preference": "Security Analyst",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 32,
+      "name": "Edward",
+      "experience": 5,
+      "roles": [
+        "Database Administrator",
+        "Backend Developer",
+        "DevOps Engineer",
+        "Data Scientist"
+      ],
+      "preference": "Database Administrator",
+      "projects": 1,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 43,
+      "name": "Xander",
+      "experience": 5,
+      "roles": [
+        "Cloud Engineer",
+        "AI Engineer"
+      ],
+      "preference": "AI Engineer",
+      "projects": 1,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 30,
+      "name": "Peter",
+      "experience": 5,
+      "roles": [
+        "Cloud Engineer",
+        "Data Scientist"
+      ],
+      "preference": "Cloud Engineer",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 38,
+      "name": "Grace",
+      "experience": 5,
+      "roles": [
+        "Machine Learning Engineer",
+        "Backend Developer",
+        "Database Administrator"
+      ],
+      "preference": "Machine Learning Engineer",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 41,
+      "name": "Nina",
+      "experience": 4,
+      "roles": [
+        "Database Administrator",
+        "Data Scientist",
+        "DevOps Engineer",
+        "Backend Developer"
+      ],
+      "preference": "Database Administrator",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 31,
+      "name": "Victor",
+      "experience": 3,
+      "roles": [
+        "AI Engineer",
+        "Cloud Engineer"
+      ],
+      "preference": "Cloud Engineer",
+      "projects": 3,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 14,
+      "name": "Zelda",
+      "experience": 3,
+      "roles": [
+        "Machine Learning Engineer",
+        "Database Administrator"
+      ],
+      "preference": "Machine Learning Engineer",
+      "projects": 1,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 46,
+      "name": "Mona",
+      "experience": 3,
+      "roles": [
+        "Database Administrator",
+        "Machine Learning Engineer",
+        "DevOps Engineer"
+      ],
+      "preference": "Database Administrator",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 12,
+      "name": "Ryan",
+      "experience": 1,
+      "roles": [
+        "Cloud Engineer",
+        "Machine Learning Engineer",
+        "Data Scientist"
+      ],
+      "preference": "Cloud Engineer",
+      "projects": 2,
+      "allocation_status": "unallocated"
+    },
+    {
+      "id": 42,
+      "name": "Nancy",
+      "experience": 1,
+      "roles": [
+        "Database Administrator",
+        "Data Scientist"
+      ],
+      "preference": "Database Administrator",
+      "projects": 0,
+      "allocation_status": "unallocated"
+    }
+  ],
+  "count": 22,
+  "generated_at": "2025-04-04T03:08:33.812130"
+}

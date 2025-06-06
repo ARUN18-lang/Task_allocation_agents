@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain_community
+langchain_groq
+langchain-nvidia-ai-endpoints
+langchain-ollama
+mysql
+mysql-connector-python
+pandas
+PyPDF2
+flask
+werkzeug
